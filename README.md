@@ -309,12 +309,3 @@ Credit card customer management
 
 Data-driven decision-making
 
-👨‍💻 Author
-
-Your Name
-
-Machine Learning | Python | Data Science
-
-📜 License
-
-This project is created for educational and demonstration purposes.
